@@ -358,10 +358,11 @@ li {
 }
 
 .portfolio-description h1 {
+    color: #ffe838;
     font-size: 3rem;
     text-transform: uppercase;
     font-weight: 300;
-    opacity: 0.3;
+    opacity: .5;
 
 }
 
@@ -563,6 +564,7 @@ li {
 }
 
 @media screen and (max-width: 600px) {
+
     .menu-toggler {
         top: 2rem;
         right: 2rem;
